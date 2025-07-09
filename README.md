@@ -14,7 +14,7 @@ Il nostro progetto consiste nella creazione di una casetta smart in grado di for
 - sfruttare il sensore di temperatura per aprire le finestre in caso di temperatura alta e chiuderle in caso di temperatura bassa
 - sfruttare l'accelerometro per monitorare la presenza di terremoti e segnalarlo con apertura porte e luce d'allarme
 
-# Hardware Specifics
+# Hardware Components
 L'attrezzatura che abbiamo utilizzato è:
 - MSP432 Launchpad
 - MSP432 Boosterpack Sensors
@@ -22,3 +22,10 @@ L'attrezzatura che abbiamo utilizzato è:
 - Microservi SG90
 - Led
 - Breadboard
+
+# Development Environment
+Abbiamo usanto Energia.nu e Arduino IDE
+
+# Collegamenti
+
+
