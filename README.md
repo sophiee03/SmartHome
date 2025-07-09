@@ -2,10 +2,10 @@
 Repository per il progetto di Embedded Software for the IoT at the University of Trento
 
 # Members
-- Ismaele Landini
-- Sophie Motter
-- Tommaso Michelotti
-- Norris Kervatin
+- [Ismaele Landini](https://github.com/Ismaele-landini)
+- [Sophie Motter](https://github.com/sophiee03)
+- [Tommaso Michelotti](https://github.com/Tommo-Tom)
+- [Norris Kervatin](https://github.com/kerva17)
 
 # Description
 Il nostro progetto consiste nella creazione di una casetta smart in grado di fornire le seguenti funzionalità:
