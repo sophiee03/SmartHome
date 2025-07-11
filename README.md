@@ -1,5 +1,5 @@
 # SmartHome
-Repository per il progetto di Embedded Software for the IoT at the University of Trento
+Repository for the Embedded Software for the IoT project at the University of Trento.
 
 # Members
 - [Ismaele Landini](https://github.com/Ismaele-landini)
@@ -8,23 +8,25 @@ Repository per il progetto di Embedded Software for the IoT at the University of
 - [Norris Kervatin](https://github.com/kerva17)
 
 # Description
-Il nostro progetto consiste nella creazione di una casetta smart in grado di fornire le seguenti funzionalità:
-- aprire la porta della casa attraverso la pressione di un pulsante per entrare, e viceversa, riaprirla per uscire con la stessa modalità
-- sfruttare il sensore della luce per monitorare la luminosità della casa: si accenderanno le luci se la luminosità è bassa e viceversa, inoltre ogni volta che si uscirà dalla casa si spegneranno le luci
-- sfruttare il sensore di temperatura per aprire le finestre in caso di temperatura alta e chiuderle in caso di temperatura bassa
-- sfruttare l'accelerometro per monitorare la presenza di terremoti e segnalarlo con apertura porte e luce d'allarme
+Our project is to create a smart house that can provide the following functionality:
+- open the door of the house through pressing a button to enter, and vice versa, reopen it to leave in the same way
+- exploit the light sensor to monitor the brightness of the house: it will turn on the lights if someone enters the house
+- take advantage of the temperature sensor to open the windows if the temperature is high and close them if the temperature is low
+- exploit the accelerometer to monitor the presence of earthquakes and signal it with door opening and alarm light
 
 # Hardware Components
-L'attrezzatura che abbiamo utilizzato è:
+The equipment we used is:
 - MSP432 Launchpad
 - MSP432 Boosterpack Sensors
 - Arduino Uno
 - Microservi SG90
-- Led
+- Led and diode
 - Breadboard
+- Resistors
+- Converter
 
 # Development Environment
-Abbiamo usanto Energia.nu e Arduino IDE
+
 
 # Collegamenti
 
