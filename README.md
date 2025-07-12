@@ -1,4 +1,3 @@
-@@ -0,0 +1,63 @@
 # SmartHome
 Repository for the Embedded Software for the IoT project at the University of Trento.
 
