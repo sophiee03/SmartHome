@@ -8,23 +8,14 @@ Repository for the Embedded Software for the IoT project at the University of Tr
 - [Norris Kervatin](https://github.com/kerva17)
 
 # Description and Functionality
-Our project consist in creating a Smart Home that can provide the following functionality:
-- by pressing the button1 of the MSP432 the door will be opened to enter the house, and with another press it will be reopened to leave the house
-- when someone enter the house with the button1 press the lights will be turned on
-- when someone leaves the house with the re-press of button1 the lights will be turned off
-- when the temperature sensor detects a temperature higher than 27°, the windows will be opened, otherwise they will be closed
-- when the accelerometer monitor the presence of earthquakes (oscillation from the normal position), the house will signal it with door opening and alarm light turned on
-- the display of the MSP432 will show the parameters constantly updated (temperature, light ON/OFF, manual mode)
-
-In addition we have introduced a edit mode that allows for testing, on the display it is possible to select among these options:
+Our project consist in creating a Smart Home that can provide many functionality exploiting the sensors of microcontrollers, including turning on the lights if someone enters the house and turn them off if someone exits, continuously check the temperature inside the abitation to open/close the windows in case of high/low temperature, checking constantly updated environment parameters on the display and alert people inside the house if an earthquake occurs by opening the door, switching on an alarm light and buzzer and by signaling the situation on the display. 
+In addition we have introduced an edit mode that allows for testing: by clicking the joystick pushbutton it is possible to enter the edit mode, while, switching left the joystick allow to exit edit mode. The edit mode consists of these options that can be selected by the user:
 - turn on lights
 - turn off lights
 - open windows
 - close windows
 - enter (open door and turn on lights)
 - exit (open door and turn off lights)
-
-***NB:*** Clicking the joystick pushbutton allow to enter the edit mode, while switching left the joystick allow to exit edit mode 
 
 ***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
 
