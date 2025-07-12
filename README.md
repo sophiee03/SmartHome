@@ -16,12 +16,17 @@ Our project consist in creating a Smart Home that can provide the following func
 - when the accelerometer monitor the presence of earthquakes (oscillation from the normal position), the house will signal it with door opening and alarm light turned on
 - the display of the MSP432 will show the parameters constantly updated (temperature, light ON/OFF, manual mode)
 
-In addition we have introduced a manual mode that allows for testing (by pushing for 3 seconds the button2 of the MSP432):
-- by pressing button1 of the MSP432 the lights will be turned on
-- by pressing button2 of the MSP432 the windows will be opened
-- by pressing button2 for 3s the system will return in automatic mode
+In addition we have introduced a edit mode that allows for testing, on the display it is possible to select among these options:
+- turn on lights
+- turn off lights
+- open windows
+- close windows
+- enter (open door and turn on lights)
+- exit (open door and turn off lights)
 
-***NB*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
+***NB:*** Clicking the joystick pushbutton allow to enter the edit mode, while switching left the joystick allow to exit edit mode 
+
+***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
 
 # Hardware Components
 The equipment we used is:
@@ -61,6 +66,6 @@ Finally after setting up the hardware part, it is only necessary to compile and 
 
 # [Presentation]()
 
-# Contribution
+# [YouTube Video]()
 
 
