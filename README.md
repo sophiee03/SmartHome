@@ -9,7 +9,7 @@ Repository for the Embedded Software for the IoT project at the University of Tr
 
 # Description and Functionality
 Our project consist in creating a Smart Home that can provide many functionality exploiting the sensors of microcontrollers, including turning on the lights if someone enters the house and turn them off if someone exits, continuously check the temperature inside the abitation to open/close the windows in case of high/low temperature, checking constantly updated environment parameters on the display and alert people inside the house if an earthquake occurs by opening the door, switching on an alarm light and buzzer and by signaling the situation on the display. 
-In addition we have introduced an edit mode that allows for testing: by clicking the joystick pushbutton it is possible to enter the edit mode, while, switching left the joystick allow to exit edit mode. The edit mode consists of these options that can be selected by the user:
+In addition we have introduced an edit mode that allows for testing, the user can choose on the display among these options:
 - turn on lights
 - turn off lights
 - open windows
