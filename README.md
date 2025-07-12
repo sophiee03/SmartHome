@@ -56,7 +56,7 @@ The connections that we have made to implement this project are the following (c
 
 # Steps to Run (Software side)
 In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/).
-Then the file in the [code](https://github.com/sophiee03/SmartHome/code) folder can be dowloaded and opened in their editor.
+Then the file in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
 
 # [Presentation]()
