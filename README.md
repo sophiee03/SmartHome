@@ -19,6 +19,8 @@ In addition we have introduced an edit mode that allows for testing, the user ca
 
 ***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
 
+![home diagram](files/SmartHome.drawio.png.png)
+
 # Hardware Components
 The equipment we used is:
 - MSP432 Launchpad
@@ -48,7 +50,7 @@ The equipment we used is:
 ```
 # Steps to Run (Hardware side)
 The connections that we have made to implement this project are the following:
-![Schema collegamenti](files/Smart_Home_diagram.png)
+![links diagram](files/Smart_Home_diagram.png)
 
 # Steps to Run (Software side)
 In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/).
