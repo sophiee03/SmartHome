@@ -19,8 +19,6 @@ In addition we have introduced an edit mode that allows for testing, the user ca
 
 ***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
 
-![home diagram](files/SmartHome.drawio.png)
-
 # Hardware Components
 The equipment we used is:
 - MSP432 Launchpad
@@ -31,6 +29,9 @@ The equipment we used is:
 - Breadboard
 - Resistors (220 Ohm)
 - Converter
+
+# Home Arrangement
+![home diagram](files/SmartHome.drawio.png)
 
 # Software Environment
 - Arduino Uno
