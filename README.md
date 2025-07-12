@@ -40,10 +40,12 @@ The equipment we used is:
 
 # Project Layout
 ```plaintext
-├── SMART_HOME.md
-├── files                     # contains useful files
-│   ├── Smart_Home.pdf        # presentation for the exam
-│   └── SH.png                # image showing the project
+├── README.md
+├── files                       # contains useful files
+│   ├── Smart_Home.pdf          # presentation for the exam
+│   ├── Smart_Home_diagram.png  # diagram of the connections
+│   ├── Flowchart.pdf           # diagram to see the flow of the project
+|   └── SmartHome.drawio.png    # image showing the project
 └── code
     ├── msp_code.ino          # code for the MSP432 with Energia.nu
     └── arduino_code.ino      # code for aurduino with Arduino Uno 
