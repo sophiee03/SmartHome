@@ -51,12 +51,12 @@ The equipment we used is:
     └── arduino_code.ino      # code for aurduino with Arduino Uno 
 ```
 # Steps to Run (Hardware side)
-The connections that we have made to implement this project are the following (consider C as converter, A as Arduino Uno and M as MSP432):
+The connections that we have made to implement this project are the following:
 ![Schema collegamenti](files/Smart_Home_diagram.png)
 
 # Steps to Run (Software side)
 In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/).
-Then the file in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
+Then the files in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
 
 # [Presentation]()
