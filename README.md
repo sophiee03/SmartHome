@@ -21,6 +21,8 @@ In addition we have introduced a manual mode that allows for testing (by pushing
 - by pressing button2 of the MSP432 the windows will be opened
 - by pressing button2 for 3s the system will return in automatic mode
 
+  ***NB*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/files/Flowchart.pdf)
+
 # Hardware Components
 The equipment we used is:
 - MSP432 Launchpad
