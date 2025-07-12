@@ -38,19 +38,17 @@ The equipment we used is:
 
 # Project Layout
 ```plaintext
-├── SMART_HOME.md/
-├── files/                     # contains useful files
-│   ├── Smart_Home.pdf/        # presentation for the exam
-│   └── SH.png/                # image showing the project
-└── code/
-    ├── msp_code.ino/          # code for the MSP432 with Energia.nu
-    └── arduino_code.ino/      # code for aurduino with Arduino Uno 
+├── SMART_HOME.md
+├── files                     # contains useful files
+│   ├── Smart_Home.pdf        # presentation for the exam
+│   └── SH.png                # image showing the project
+└── code
+    ├── msp_code.ino          # code for the MSP432 with Energia.nu
+    └── arduino_code.ino      # code for aurduino with Arduino Uno 
 ```
 # Steps to Run (Hardware side)
 The connections that we have made to implement this project are the following (consider C as converter, A as Arduino Uno and M as MSP432):
-<div align="center">
-  <img src="https://github.com/sophiee03/SmartHome/Smart_Home_diagram.png" width="200">
-</div>
+![Schema collegamenti](files/Smart_Home_diagram.png)
 
 # Steps to Run (Software side)
 In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/).
