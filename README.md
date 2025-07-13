@@ -63,4 +63,9 @@ PowerPoint on Canva link: https://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuR
 
 # [YouTube Video]()
 
-
+# Contribution 
+The project workflow was equally divided among all team members. Each member contributed to the following tasks:
+- Gathering hardware components: resistors, LEDs, diodes, Arduino UNO, MSP432 LaunchPad, servos, level converters (3.3V to 5V), jumper wires, and breadboards.
+- Constructing the physical structure of the smart house.
+- Developing the software using Energia (for MSP432) and the Arduino IDE.
+- Managing the wiring and cabling between components.
