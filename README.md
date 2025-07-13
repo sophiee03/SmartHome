@@ -59,6 +59,7 @@ Then the files in the [code](https://github.com/sophiee03/SmartHome/tree/main/co
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
 
 # [Presentation]()
+PowerPoint on Canva link: https://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonhttps://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # [YouTube Video]()
 
