@@ -58,7 +58,7 @@ In order to test this project the first thing to do is having these developing e
 Then the files in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
 
-# [Presentation](LINK QUI----------------------------------------------------)
+# [Presentation](https://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # [YouTube Video](https://youtu.be/dTfHrDASOO8)
 
