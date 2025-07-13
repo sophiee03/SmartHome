@@ -58,10 +58,9 @@ In order to test this project the first thing to do is having these developing e
 Then the files in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
 
-# [Presentation]()
-PowerPoint on Canva link: https://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonhttps://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# [Presentation](LINK QUI----------------------------------------------------)
 
-# [YouTube Video]()
+# [YouTube Video](https://youtu.be/dTfHrDASOO8)
 
 # Contribution 
 The project workflow was equally divided among all team members. Each member contributed to the following tasks:
