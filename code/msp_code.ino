@@ -69,8 +69,8 @@ bool doorMoving = false;     // Is door in motion?
 unsigned long doorTimer = 0; // Timer for door movement
 
 // Windows tracking
-bool windowOpen = false;                  // Track window state (added)
-unsigned long lastWindowCheck = 0;        // Last time window auto logic ran (added)
+bool windowOpen = false;                  // Track window state
+unsigned long lastWindowCheck = 0;        // Last time window auto logic ran
 
 
 // Earthquake status
