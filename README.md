@@ -21,7 +21,7 @@ In addition we have introduced an edit mode that allows for testing, the user ca
 
 # Hardware Components
 The equipment we used is:
-- MSP432 Launchpad
+- [MSP432 Launchpad](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ti.com/lit/ds/slas826e/slas826e.pdf)
 - MSP432 Boosterpack Sensors
 - Arduino Uno
 - Microservi SG90
