@@ -54,9 +54,11 @@ The connections that we have made to implement this project are the following:
 ![links diagram](files/Smart_Home_diagram.png)
 
 # Steps to Run (Software side)
-In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/).
+In order to test this project the first thing to do is having these developing environment installed and setup: [Arduino Uno](https://www.arduino.cc/en/software/) and [Energia.nu](https://energia.nu/download/). In addition, in the energia environment it is required to download Energia MSP432 EMT RED boards in order to execute our code. 
 Then the files in the [code](https://github.com/sophiee03/SmartHome/tree/main/code) folder can be dowloaded and opened in their editor.
 Finally after setting up the hardware part, it is only necessary to compile and run on your PC.
+
+***NB:*** Be careful to select (in the arduino environment) Arduino Uno and the correct ports (COM)
 
 # [Presentation](https://www.canva.com/design/DAGsqeLUTmU/nd26wiBK8WcuRsx4vUayQw/edit?utm_content=DAGsqeLUTmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
