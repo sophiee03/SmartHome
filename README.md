@@ -17,7 +17,7 @@ In addition we have introduced an edit mode that allows for testing, the user ca
 - enter (open door and turn on lights)
 - exit (open door and turn off lights)
 
-***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart.pdf)
+***NB:*** To have a schematic view of the functionalities check out the [Flowchart Diagram](https://github.com/sophiee03/SmartHome/blob/main/files/Flowchart_SmartHome.pdf)
 
 # Hardware Components
 The equipment we used is:
