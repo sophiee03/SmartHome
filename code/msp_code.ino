@@ -219,7 +219,7 @@ void loop() {
     }
 
     // Window control based on temperature 
-    if (now - lastWindowCheck > 4000) {  // Every 30 seconds
+    if (now - lastWindowCheck > 4000) {  // Every 4 seconds
       if (temperature > 26.0 && !windowOpen) {
         Serial1.write('D');               // Open window
         windowOpen = true;
